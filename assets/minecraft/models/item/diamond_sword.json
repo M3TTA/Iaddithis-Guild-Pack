@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":100001}, "model": "item/diamond/dspear"},
+		{"predicate": {"custom_model_data":100002}, "model": "item/diamond/dsaber"},
+		{"predicate": {"custom_model_data":100003}, "model": "item/diamond/drapier"},
+		{"predicate": {"custom_model_data":100004}, "model": "item/diamond/dkatana"},
+		{"predicate": {"custom_model_data":100005}, "model": "item/diamond/dscythe"},
+		{"predicate": {"custom_model_data":100006}, "model": "item/diamond/dbattleaxe"}
+	]
+	
+}

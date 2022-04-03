@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":100001}, "model": "item/netherite/nspear"},
+		{"predicate": {"custom_model_data":100002}, "model": "item/netherite/nsaber"},
+		{"predicate": {"custom_model_data":100003}, "model": "item/netherite/nrapier"},
+		{"predicate": {"custom_model_data":100004}, "model": "item/netherite/nkatana"},
+		{"predicate": {"custom_model_data":100005}, "model": "item/netherite/nscythe"},
+		{"predicate": {"custom_model_data":100006}, "model": "item/netherite/nbattleaxe"}
+	]
+	
+}
