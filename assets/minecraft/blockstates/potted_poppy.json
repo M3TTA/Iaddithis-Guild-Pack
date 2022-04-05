@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+           { "model": "block/potbowlpoppy2"},
+            { "model": "block/potbowlpoppy2", "y": 90 },
+            { "model": "block/potbowlpoppy2", "y": 180 },
+            { "model": "block/potbowlpoppy2", "y": 270 },
+            { "model": "block/potbowlpoppy3"},
+            { "model": "block/potbowlpoppy3", "y": 90 },
+            { "model": "block/potbowlpoppy3", "y": 180 },
+            { "model": "block/potbowlpoppy3", "y": 270 },
+            { "model": "block/potbowlpoppy4"},
+            { "model": "block/potbowlpoppy4", "y": 90 },
+            { "model": "block/potbowlpoppy4", "y": 180 },
+            { "model": "block/potbowlpoppy4", "y": 270 },
+            { "model": "block/potbowlpoppy1"},
+            { "model": "block/potbowlpoppy1", "y": 90 },
+            { "model": "block/potbowlpoppy1", "y": 180 },
+            { "model": "block/potbowlpoppy1", "y": 270 }
+        ]
+  }
+}

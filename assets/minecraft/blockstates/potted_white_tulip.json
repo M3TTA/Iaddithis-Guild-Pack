@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+            { "model": "block/potamphorawhitetulip1"},
+            { "model": "block/potamphorawhitetulip1", "y": 90 },
+            { "model": "block/potamphorawhitetulip1", "y": 180 },
+            { "model": "block/potamphorawhitetulip1", "y": 270 },
+            { "model": "block/potamphorawhitetulip2"},
+            { "model": "block/potamphorawhitetulip2", "y": 90 },
+            { "model": "block/potamphorawhitetulip2", "y": 180 },
+            { "model": "block/potamphorawhitetulip2", "y": 270 }
+        ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+            { "model": "block/potamphorapinktulip1"},
+            { "model": "block/potamphorapinktulip1", "y": 90 },
+            { "model": "block/potamphorapinktulip1", "y": 180 },
+            { "model": "block/potamphorapinktulip1", "y": 270 },
+            { "model": "block/potamphorapinktulip2"},
+            { "model": "block/potamphorapinktulip2", "y": 90 },
+            { "model": "block/potamphorapinktulip2", "y": 180 },
+            { "model": "block/potamphorapinktulip2", "y": 270 }
+        ]
+  }
+}

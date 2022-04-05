@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+            { "model": "block/potbagbamboo1"},
+            { "model": "block/potbagbamboo1", "y": 90 },
+            { "model": "block/potbagbamboo1", "y": 180 },
+            { "model": "block/potbagbamboo1", "y": 270 },
+            { "model": "block/potbagbamboo2"},
+            { "model": "block/potbagbamboo2", "y": 90 },
+            { "model": "block/potbagbamboo2", "y": 180 },
+            { "model": "block/potbagbamboo2", "y": 270 },
+            { "model": "block/potbagbamboo3"},
+            { "model": "block/potbagbamboo3", "y": 90 },
+            { "model": "block/potbagbamboo3", "y": 180 },
+            { "model": "block/potbagbamboo3", "y": 270 }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "": [
+            { "model": "block/bigpotfilled"},
+            { "model": "block/bigpotfilled", "y": 90 },
+            { "model": "block/bigpotfilled", "y": 180 },
+            { "model": "block/bigpotfilled", "y": 270 },
+            { "model": "block/bigpotfilled1"},
+            { "model": "block/bigpotfilled1"},
+            { "model": "block/bigpotfilled1", "y": 90 },
+            { "model": "block/bigpotfilled1", "y": 180 },
+            { "model": "block/bigpotfilled1", "y": 270 },
+            { "model": "block/bigpotfilled2"},
+            { "model": "block/bigpotfilled2", "y": 90 },
+            { "model": "block/bigpotfilled2", "y": 180 },
+            { "model": "block/bigpotfilled2", "y": 270 }
+        ]
+  }
+}

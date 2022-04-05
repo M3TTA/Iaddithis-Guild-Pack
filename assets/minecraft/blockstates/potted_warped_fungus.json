@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+            { "model": "block/potbowlwarpedmushroom1"},
+            { "model": "block/potbowlwarpedmushroom1", "y": 90 },
+            { "model": "block/potbowlwarpedmushroom1", "y": 180 },
+            { "model": "block/potbowlwarpedmushroom1", "y": 270 },
+            { "model": "block/potbowlwarpedmushroom2"},
+            { "model": "block/potbowlwarpedmushroom2", "y": 90 },
+            { "model": "block/potbowlwarpedmushroom2", "y": 180 },
+            { "model": "block/potbowlwarpedmushroom2", "y": 270 }
+        ]
+  }
+}

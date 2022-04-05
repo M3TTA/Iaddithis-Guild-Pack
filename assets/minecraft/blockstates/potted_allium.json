@@ -1,0 +1,26 @@
+{
+  "variants": {
+        "": [
+            { "model": "block/potbowllavender1"},
+            { "model": "block/potbowllavender1", "y": 90 },
+            { "model": "block/potbowllavender1", "y": 180 },
+            { "model": "block/potbowllavender1", "y": 270 },
+            { "model": "block/potbowllavender2"},
+            { "model": "block/potbowllavender2", "y": 90 },
+            { "model": "block/potbowllavender2", "y": 180 },
+            { "model": "block/potbowllavender2", "y": 270 },
+            { "model": "block/potbowllavender3"},
+            { "model": "block/potbowllavender3", "y": 90 },
+            { "model": "block/potbowllavender3", "y": 180 },
+            { "model": "block/potbowllavender3", "y": 270 },
+            { "model": "block/potbowllavender4"},
+            { "model": "block/potbowllavender4", "y": 90 },
+            { "model": "block/potbowllavender4", "y": 180 },
+            { "model": "block/potbowllavender4", "y": 270 },
+            { "model": "block/potbowllavender5"},
+            { "model": "block/potbowllavender5", "y": 90 },
+            { "model": "block/potbowllavender5", "y": 180 },
+            { "model": "block/potbowllavender5", "y": 270 }
+        ]
+  }
+}
