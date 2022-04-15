@@ -1,0 +1,7 @@
+{
+    "parent":"item/generated",
+    "textures":{
+       "layer0":"item/generic/wine_overlay",
+       "layer1":"item/generic/bottle_wine"
+    }
+ }
