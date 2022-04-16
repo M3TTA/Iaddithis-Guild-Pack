@@ -1,0 +1,7 @@
+{
+    "parent":"item/generated",
+    "textures":{
+       "layer0":"item/generic/absinthe_overlay",
+       "layer1":"item/generic/bottle_absinthe"
+    }
+ }
