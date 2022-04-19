@@ -1,7 +1,7 @@
 {
     "parent":"item/generated",
     "textures":{
-       "layer0":"item/dummy/dummy",
+       "layer0":"item/drinks_overlay",
        "layer1":"item/resonance"
     }
  }
