@@ -1,7 +1,0 @@
-{
-    "parent":"item/generated",
-    "textures":{
-       "layer0":"item/generic/tea_overlay",
-       "layer1":"item/generic/bottle_small"
-    }
- }
