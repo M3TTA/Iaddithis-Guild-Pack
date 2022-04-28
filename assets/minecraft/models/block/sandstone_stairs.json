@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/frontside_stairs",
+  "textures": {
+    "bottom": "minecraft:block/sandstone_bottom",
+    "top": "minecraft:block/sandstone_top",
+    "side": "minecraft:block/sandstone",
+    "front": "minecraft:block/sandstone_slab"
+  }
+}
