@@ -1,0 +1,5 @@
+type=item
+items=written_book
+texture=textures/rp_items/written_books/gender_theory
+nbt.display.Name=pattern:Gender Theory
+nbt.display.Lore.0=By Miranda Surace
