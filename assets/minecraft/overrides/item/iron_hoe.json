@@ -1,0 +1,50 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_sickle",
+			"predicate": {
+				"name": "/(?i).*Iron Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_celurit",
+			"predicate": {
+				"name": "/(?i).*Copper celurit.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_celurit",
+			"predicate": {
+				"name": "/(?i).*Iron celurit.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_sickle",
+			"predicate": {
+				"name": "/(?i).*copper Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_sickle",
+			"predicate": {
+				"name": "/(?i).*Iron Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_hoe",
+			"predicate": {
+				"name": "/(?i).*copper hoe.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_hoe",
+			"predicate": {
+				"name": "/(?i).*copper hoe.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/iron_sickle"
+	}
+}

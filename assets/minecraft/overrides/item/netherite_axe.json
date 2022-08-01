@@ -1,0 +1,58 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_mace",
+			"predicate": {
+				"name": "/(?i).*amethyst mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_mace",
+			"predicate": {
+				"name": "/(?i).*netherite mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_mace",
+			"predicate": {
+				"name": "/(?i).*amethyst mace.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_mace",
+			"predicate": {
+				"name": "/(?i).*netherite mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_axe",
+			"predicate": {
+				"name": "/(?i).*amethyst axe.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_axe",
+			"predicate": {
+				"name": "/(?i).*amethyst axe.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_mace"
+	}
+}

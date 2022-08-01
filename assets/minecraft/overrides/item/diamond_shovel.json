@@ -1,0 +1,20 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_shovel",
+			"predicate": {
+				"name": "/(?i).*emerald shovel.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_shovel",
+			"predicate": {
+				"name": "/(?i).*emerald shovel.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/emerald_shovel"
+	}
+}

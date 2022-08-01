@@ -1,0 +1,87 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/book_crash",
+			"predicate": {
+				"name": "/The book I crashed the server with/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/book_spellbook",
+			"predicate": {
+				"name": "/(?i).*Spellbook.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/book_tome",
+			"predicate": {
+				"name": "/(?i).*Tome.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/letter",
+			"predicate": {
+				"name": "/(?i)Letter/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/letter_love",
+			"predicate": {
+				"name": "/(?i)Love Letter/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/notes",
+			"predicate": {
+				"name": "/(?i).*Notes.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/written_books/catboy_cafe",
+			"predicate": {
+				"name": "/Catboy Cafe/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/written_books/gender_theory",
+			"predicate": {
+				"name": "/Gender Theory/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "By Miranda Surace"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/bound_written_book",
+			"predicate": {
+				"name": "/(?i)\\[.*\\]/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/little_written_book",
+			"predicate": {
+				"name": "/(?i)-.*-/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/scroll",
+			"predicate": {
+				"name": "/(?i)\\$.*\\$/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/unbound_written_book",
+			"predicate": {
+				"name": "/(?i)#.*#/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/book_crash"
+	}
+}

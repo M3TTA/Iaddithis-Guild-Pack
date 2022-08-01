@@ -1,0 +1,14 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/book_black",
+			"predicate": {
+				"name": "/Black Book/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/book_black"
+	}
+}

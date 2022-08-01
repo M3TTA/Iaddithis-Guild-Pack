@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/turtle_master_overlay",
+		"layer1": "item/turtle_master_linger"
+	}
+}

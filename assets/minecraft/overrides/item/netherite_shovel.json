@@ -1,0 +1,27 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_shovel",
+			"predicate": {
+				"name": "/(?i).*amethyst shovel.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_shovel",
+			"predicate": {
+				"name": "/(?i).*amethyst shovel.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_shovel"
+	}
+}

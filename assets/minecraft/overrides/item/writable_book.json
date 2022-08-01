@@ -1,0 +1,38 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/wip",
+			"predicate": {
+				"name": "/.*WIP.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/bound_written_book",
+			"predicate": {
+				"name": "/(?i)\\[.*\\]/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/little_written_book",
+			"predicate": {
+				"name": "/(?i)-.*-/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/scroll",
+			"predicate": {
+				"name": "/(?i)\\$.*\\$/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/unbound_written_book",
+			"predicate": {
+				"name": "/(?i)#.*#/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/wip"
+	}
+}

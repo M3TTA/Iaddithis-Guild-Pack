@@ -1,0 +1,26 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_sickle",
+			"predicate": {
+				"name": "/(?i).*Golden Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_celurit",
+			"predicate": {
+				"name": "/(?i).*Golden celurit.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_sickle",
+			"predicate": {
+				"name": "/(?i).*Golden Sickle.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/golden_sickle"
+	}
+}

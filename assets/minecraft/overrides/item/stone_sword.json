@@ -1,0 +1,20 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/stone_dagger",
+			"predicate": {
+				"name": "/(?i).*stone dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/stone_dagger",
+			"predicate": {
+				"name": "/(?i).*stone dagger.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/stone_dagger"
+	}
+}

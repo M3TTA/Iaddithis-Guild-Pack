@@ -1,0 +1,44 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_mace",
+			"predicate": {
+				"name": "/(?i).*diamond mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_mace",
+			"predicate": {
+				"name": "/(?i).*emerald mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_mace",
+			"predicate": {
+				"name": "/(?i).*diamond mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_mace",
+			"predicate": {
+				"name": "/(?i).*emerald mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_axe",
+			"predicate": {
+				"name": "/(?i).*emerald axe.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_axe",
+			"predicate": {
+				"name": "/(?i).*emerald axe.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/diamond_mace"
+	}
+}

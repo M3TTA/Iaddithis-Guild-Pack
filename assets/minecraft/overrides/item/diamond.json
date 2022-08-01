@@ -1,0 +1,14 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/gold_wedding_ring",
+			"predicate": {
+				"name": "/(?i).*wedding ring.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/item/gold_wedding_ring"
+	}
+}

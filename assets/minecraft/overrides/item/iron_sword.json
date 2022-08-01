@@ -1,0 +1,116 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_dagger",
+			"predicate": {
+				"name": "/(?i).*iron dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_gladius",
+			"predicate": {
+				"name": "/(?i).*iron gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_kukri",
+			"predicate": {
+				"name": "/(?i).*iron kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_dagger",
+			"predicate": {
+				"name": "/(?i).*copper dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_dagger",
+			"predicate": {
+				"name": "/(?i).*iron dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_gladius",
+			"predicate": {
+				"name": "/(?i).*copper gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_gladius",
+			"predicate": {
+				"name": "/(?i).*iron gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_kris_knife",
+			"predicate": {
+				"name": "/(?i).*copper kris knife.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_kris_knife",
+			"predicate": {
+				"name": "/(?i).*iron kris knife.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_kukri",
+			"predicate": {
+				"name": "/(?i).*copper kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_kukri",
+			"predicate": {
+				"name": "/(?i).*iron kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_sai",
+			"predicate": {
+				"name": "/(?i).*copper sai.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_sai",
+			"predicate": {
+				"name": "/(?i).*iron sai.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_shortsword",
+			"predicate": {
+				"name": "/(?i).*iron short sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_sverd",
+			"predicate": {
+				"name": "/(?i).*copper sverd.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_sverd",
+			"predicate": {
+				"name": "/(?i).*iron sverd.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_sword",
+			"predicate": {
+				"name": "/(?i).*copper sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_sword",
+			"predicate": {
+				"name": "/(?i).*copper sword.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/iron_dagger"
+	}
+}

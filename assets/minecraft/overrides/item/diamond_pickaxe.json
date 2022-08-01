@@ -1,0 +1,20 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_pickaxe",
+			"predicate": {
+				"name": "/(?i).*emerald pickaxe.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_pickaxe",
+			"predicate": {
+				"name": "/(?i).*emerald pickaxe.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/emerald_pickaxe"
+	}
+}

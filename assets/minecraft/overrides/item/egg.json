@@ -1,0 +1,43 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/easter_egg",
+			"predicate": {
+				"name": "/Easter Egg/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "Easter Event 2022"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/easter_egg_alt",
+			"predicate": {
+				"name": "/Easter Egg/",
+				"nbt": {
+					"enchantments": "0"
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/easter_egg_alt",
+			"predicate": {
+				"name": "/Easter Egg/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "Easter Event 2022"
+						}
+					}
+				}
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/item/easter_egg"
+	}
+}

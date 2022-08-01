@@ -1,0 +1,74 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_absinthe",
+			"predicate": {
+				"name": "/Bottle of Absinthe/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_brandy",
+			"predicate": {
+				"name": "/Bottle of Brandy/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_gin",
+			"predicate": {
+				"name": "/Bottle of Gin/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_mead",
+			"predicate": {
+				"name": "/Bottle of Mead/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_rum",
+			"predicate": {
+				"name": "/Bottle of Rum/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_small",
+			"predicate": {
+				"name": "/Small Bottle/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_tequila",
+			"predicate": {
+				"name": "/Bottle of Tequila/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_vodka",
+			"predicate": {
+				"name": "/Bottle of Vodka/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_whiskey",
+			"predicate": {
+				"name": "/Bottle of Whiskey/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_wine",
+			"predicate": {
+				"name": "/Bottle of Wine/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/mug_glass",
+			"predicate": {
+				"name": "/Glass Mug/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/bottle_absinthe"
+	}
+}

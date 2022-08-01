@@ -1,0 +1,32 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/order_crossbow_standby",
+			"predicate": {
+				"name": "/(?i).*Slayer Crossbow.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/stake_shot_standby",
+			"predicate": {
+				"name": "/(?i).*Monster Shunter.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/ordercrossbow_standby1",
+			"predicate": {
+				"name": "/(?i).*Slayer Crossbow.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/stake_shot_standby",
+			"predicate": {
+				"name": "/(?i).*Monster Shunter.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/order_crossbow_standby"
+	}
+}

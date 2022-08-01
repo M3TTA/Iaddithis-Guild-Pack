@@ -1,0 +1,77 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_sickle",
+			"predicate": {
+				"name": "/(?i).*amethyst Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_sickle",
+			"predicate": {
+				"name": "/(?i).*Netherite Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_celurit",
+			"predicate": {
+				"name": "/(?i).*amethyst celurit.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_celurit",
+			"predicate": {
+				"name": "/(?i).*Netherite celurit.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_sickle",
+			"predicate": {
+				"name": "/(?i).*amethyst Sickle.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_sickle",
+			"predicate": {
+				"name": "/(?i).*Netherite Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_hoe",
+			"predicate": {
+				"name": "/(?i).*amethyst hoe.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_hoe",
+			"predicate": {
+				"name": "/(?i).*amethyst hoe.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_sickle"
+	}
+}

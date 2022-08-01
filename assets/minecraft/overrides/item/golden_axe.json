@@ -1,0 +1,20 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_mace",
+			"predicate": {
+				"name": "/(?i).*golden mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_mace",
+			"predicate": {
+				"name": "/(?i).*golden mace.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/golden_mace"
+	}
+}

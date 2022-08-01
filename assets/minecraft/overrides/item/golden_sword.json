@@ -1,0 +1,68 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_dagger",
+			"predicate": {
+				"name": "/(?i).*golden dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_gladius",
+			"predicate": {
+				"name": "/(?i).*golden gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_kukri",
+			"predicate": {
+				"name": "/(?i).*golden kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_dagger",
+			"predicate": {
+				"name": "/(?i).*golden dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_gladius",
+			"predicate": {
+				"name": "/(?i).*golden gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_kris_knife",
+			"predicate": {
+				"name": "/(?i).*golden kris knife.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_kukri",
+			"predicate": {
+				"name": "/(?i).*golden kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_sai",
+			"predicate": {
+				"name": "/(?i).*golden sai.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_shortsword",
+			"predicate": {
+				"name": "/(?i).*golden short sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/golden_sverd",
+			"predicate": {
+				"name": "/(?i).*golden sverd.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/golden_dagger"
+	}
+}

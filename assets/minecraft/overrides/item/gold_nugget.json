@@ -1,0 +1,137 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/engagement/gd_eng_ring",
+			"predicate": {
+				"name": "/Engagement Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "A ring fashioned out of Gold and Diamond"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/engagement/ge_eng_ring",
+			"predicate": {
+				"name": "/Engagement Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "A ring fashioned out of Gold and Emerald"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/marriage/g_m_ring",
+			"predicate": {
+				"name": "/Marriage Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "A golden ring with the names"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/marriage/g_m_ring",
+			"predicate": {
+				"name": "/Marriage Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"1": "*"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/marriage/g_m_ring",
+			"predicate": {
+				"name": "/Marriage Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"2": "*"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/marriage/g_m_ring",
+			"predicate": {
+				"name": "/Marriage Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"3": "written inside"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/engagement/gd_eng_ring",
+			"predicate": {
+				"name": "/Engagement Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "A ring fashioned out of Gold and Diamond"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/engagement/ge_eng_ring",
+			"predicate": {
+				"name": "/Engagement Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "A ring fashioned out of Gold and Emerald"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/marriage/g_m_ring",
+			"predicate": {
+				"name": "/.*'s Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "/A small golden ring with .* written inside/"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/coin_gold",
+			"predicate": {
+				"name": "/.*Gold.*Coin.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/coin_platinum",
+			"predicate": {
+				"name": "/.*Platinum.*Coin.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/engagement/gd_eng_ring"
+	}
+}

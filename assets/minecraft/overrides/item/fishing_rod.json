@@ -1,0 +1,20 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/drowned_rod_uncast",
+			"predicate": {
+				"name": "/(?i).*drowned rod.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/drowned_rod_uncast",
+			"predicate": {
+				"name": "/(?i).*drowned rod.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/drowned_rod_uncast"
+	}
+}

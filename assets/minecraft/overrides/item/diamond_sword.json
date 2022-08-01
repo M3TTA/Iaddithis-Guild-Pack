@@ -1,0 +1,158 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/umbra",
+			"predicate": {
+				"name": "/(?i)Umbra/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_dagger",
+			"predicate": {
+				"name": "/(?i).*diamond dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_dagger",
+			"predicate": {
+				"name": "/(?i).*emerald dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_gladius",
+			"predicate": {
+				"name": "/(?i).*diamond gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_gladius",
+			"predicate": {
+				"name": "/(?i).*emerald gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_kukri",
+			"predicate": {
+				"name": "/(?i).*diamond kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_kukri",
+			"predicate": {
+				"name": "/(?i).*emerald kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_dagger",
+			"predicate": {
+				"name": "/(?i).*diamond dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_dagger",
+			"predicate": {
+				"name": "/(?i).*emerald dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_gladius",
+			"predicate": {
+				"name": "/(?i).*diamond gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_gladius",
+			"predicate": {
+				"name": "/(?i).*emerald gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_kris_knife",
+			"predicate": {
+				"name": "/(?i).*diamond kris knife.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_kris_knife",
+			"predicate": {
+				"name": "/(?i).*emerald kris knife.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_kukri",
+			"predicate": {
+				"name": "/(?i).*diamond kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_kukri",
+			"predicate": {
+				"name": "/(?i).*emerald kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_sai",
+			"predicate": {
+				"name": "/(?i).*diamond sai.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_sai",
+			"predicate": {
+				"name": "/(?i).*emerald sai.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_shortsword",
+			"predicate": {
+				"name": "/(?i).*diamond short sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_shortsword",
+			"predicate": {
+				"name": "/(?i).*emerald short sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_sverd",
+			"predicate": {
+				"name": "/(?i).*diamond sverd.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_sverd",
+			"predicate": {
+				"name": "/(?i).*emerald sverd.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/umbra",
+			"predicate": {
+				"name": "/(?i)Umbra/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_sword",
+			"predicate": {
+				"name": "/(?i).*emerald sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_sword",
+			"predicate": {
+				"name": "/(?i).*emerald sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/type69",
+			"predicate": {
+				"name": "/(?i).*Type 69.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/umbra"
+	}
+}

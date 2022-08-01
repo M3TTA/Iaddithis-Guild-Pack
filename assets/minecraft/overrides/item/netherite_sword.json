@@ -1,0 +1,247 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/ziraknibar_the_second",
+			"predicate": {
+				"name": "/(?i).*ziraknibar the second.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "5"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/ziraknibar_the_second",
+			"predicate": {
+				"name": "/(?i).*ziraknibar the second.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "2"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/ziraknibar_the_second",
+			"predicate": {
+				"name": "/(?i).*ziraknibar the second.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "3"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_dagger",
+			"predicate": {
+				"name": "/(?i).*amethyst dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_dagger",
+			"predicate": {
+				"name": "/(?i).*netherite dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_gladius",
+			"predicate": {
+				"name": "/(?i).*amethyst gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_gladius",
+			"predicate": {
+				"name": "/(?i).*netherite gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_kukri",
+			"predicate": {
+				"name": "/(?i).*amethyst kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_kukri",
+			"predicate": {
+				"name": "/(?i).*netherite kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_dagger",
+			"predicate": {
+				"name": "/(?i).*amethyst dagger.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_dagger",
+			"predicate": {
+				"name": "/(?i).*netherite dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_gladius",
+			"predicate": {
+				"name": "/(?i).*amethyst gladius.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_gladius",
+			"predicate": {
+				"name": "/(?i).*netherite gladius.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_kris_knife",
+			"predicate": {
+				"name": "/(?i).*amethyst kris knife.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_kris_knife",
+			"predicate": {
+				"name": "/(?i).*netherite kris knife.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_kukri",
+			"predicate": {
+				"name": "/(?i).*amethyst kukri.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_kukri",
+			"predicate": {
+				"name": "/(?i).*netherite kukri.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_sai",
+			"predicate": {
+				"name": "/(?i).*amethyst sai.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_sai",
+			"predicate": {
+				"name": "/(?i).*netherite sai.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_shortsword",
+			"predicate": {
+				"name": "/(?i).*amethyst short sword.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_shortsword",
+			"predicate": {
+				"name": "/(?i).*netherite short sword.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_sverd",
+			"predicate": {
+				"name": "/(?i).*amethyst sverd.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/netherite_sverd",
+			"predicate": {
+				"name": "/(?i).*netherite sverd.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/personal_lore_items/devastator",
+			"predicate": {
+				"name": "/(?i)Devastator/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/arourablade",
+			"predicate": {
+				"name": "/(?i)Ahreveroriialis/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_sword",
+			"predicate": {
+				"name": "/(?i).*amethyst sword.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_sword",
+			"predicate": {
+				"name": "/(?i).*amethyst sword.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/ziraknibar_the_second"
+	}
+}

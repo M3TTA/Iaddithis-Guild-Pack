@@ -1,0 +1,68 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/relic_of_reclamation",
+			"predicate": {
+				"name": "/(?i)Relic Of Reclamation/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_sickle",
+			"predicate": {
+				"name": "/(?i).*Diamond Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_sickle",
+			"predicate": {
+				"name": "/(?i).*Emerald Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_celurit",
+			"predicate": {
+				"name": "/(?i).*Diamond celurit.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_celurit",
+			"predicate": {
+				"name": "/(?i).*Emerald celurit.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/diamond_sickle",
+			"predicate": {
+				"name": "/(?i).*Diamond Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_sickle",
+			"predicate": {
+				"name": "/(?i).*Emerald Sickle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/relic_of_reclamation",
+			"predicate": {
+				"name": "/(?i)Relic Of Reclamation/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_hoe",
+			"predicate": {
+				"name": "/(?i).*emerald hoe.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/emerald_hoe",
+			"predicate": {
+				"name": "/(?i).*emerald hoe.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/relic_of_reclamation"
+	}
+}

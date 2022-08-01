@@ -1,0 +1,27 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_pickaxe",
+			"predicate": {
+				"name": "/(?i).*amethyst pickaxe.*/",
+				"nbt": {
+					"Enchantments": [
+						{
+							"lvl": "1"
+						}
+					]
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_pickaxe",
+			"predicate": {
+				"name": "/(?i).*amethyst pickaxe.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/amethyst_pickaxe"
+	}
+}

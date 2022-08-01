@@ -1,0 +1,14 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/item/iron_wedding_ring",
+			"predicate": {
+				"name": "/(?i).*ring.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/item/iron_wedding_ring"
+	}
+}

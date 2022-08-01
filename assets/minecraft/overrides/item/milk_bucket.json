@@ -1,0 +1,14 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/item/feature",
+			"predicate": {
+				"name": "/(?i).*FEATURE!.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": ""
+	}
+}

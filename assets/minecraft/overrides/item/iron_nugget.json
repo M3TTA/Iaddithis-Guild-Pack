@@ -1,0 +1,33 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/engagement/ls_eng_ring",
+			"predicate": {
+				"name": "/Engagement Ring/",
+				"nbt": {
+					"display": {
+						"Lore": {
+							"0": "A ring fashioned out of Lunar Steel and encrusted"
+						}
+					}
+				}
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/coin_copper",
+			"predicate": {
+				"name": "/.*Copper.*Coin.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/rp_items/miscellanious/coin_silver",
+			"predicate": {
+				"name": "/.*Silver.*Coin.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/rp_items/jewelry/engagement/ls_eng_ring"
+	}
+}

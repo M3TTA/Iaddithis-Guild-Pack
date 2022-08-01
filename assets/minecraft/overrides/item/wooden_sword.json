@@ -1,0 +1,32 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:temp_models/weapons/artifacts/lesser_artifacts/soup_ladle_sword",
+			"predicate": {
+				"name": "/(?i).*soup ladle.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/wooden_dagger",
+			"predicate": {
+				"name": "/(?i).*wooden dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/wooden_dagger",
+			"predicate": {
+				"name": "/(?i).*wooden dagger.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:temp_models/weapons/specials/soup_ladle_sword",
+			"predicate": {
+				"name": "/(?i).*soup ladle.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:item/weapons/artifacts/lesser_artifacts/soup_ladle_sword"
+	}
+}

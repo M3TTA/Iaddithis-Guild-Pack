@@ -1,0 +1,44 @@
+{
+	"overrides": [
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_mace",
+			"predicate": {
+				"name": "/(?i).*iron mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_mace",
+			"predicate": {
+				"name": "/(?i).*copper mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/iron_mace",
+			"predicate": {
+				"name": "/(?i).*iron mace.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_axe",
+			"predicate": {
+				"name": "/(?i).*copper axe.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/copper_axe",
+			"predicate": {
+				"name": "/(?i).*copper axe.*/"
+			}
+		},
+		{
+			"model": "mcpppp_fb2462fa:extra/textures/weapon/blackstone_smithing_hammer",
+			"predicate": {
+				"name": "/(?i).*blackstone smithing hammer.*/"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp_fb2462fa:extra/textures/weapon/iron_mace"
+	}
+}
